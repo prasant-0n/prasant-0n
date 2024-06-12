@@ -1,3 +1,6 @@
+![logo](https://github.com/prasant-0n/prasant-0n/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+
+
 <h1 align="center">Hi 👋, I'm Prasanta Kumar Sahoo</h1>
 <h3 align="center">A passionate frontend developer from India, Experienced in React, Node, JavaScript and MongoDB | Knowledge and Experience in OOPS, Web Development, Front End Technologies like TailwindCSS, Database, SQL and Debugging | Open to Work for Software Engineer, Web Developer, Front End Developer</h3>
 
