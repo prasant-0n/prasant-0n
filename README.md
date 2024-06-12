@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasanta Kumar Sahoo</h1>
 <h3 align="center">A passionate frontend developer from India, Experienced in React, Node, JavaScript and MongoDB | Knowledge and Experience in OOPS, Web Development, Front End Technologies like TailwindCSS, Database, SQL and Debugging | Open to Work for Software Engineer, Web Developer, Front End Developer</h3>
 
-<img src='https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966' alt='hero image' width='900' height='600' />
+<img src='https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966' alt='hero image' width='400' />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasant-0n&label=Profile%20views&color=0e75b6&style=flat" alt="prasant-0n" /> </p>
 
