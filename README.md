@@ -193,8 +193,8 @@ I focus on:
 ## 🎓 Certifications
 
 ### 🏅 HackerRank
-- Software Developer Intern
-  [https://www.hackerrank.com/certificate](https://www.hackerrank.com/certificates/iframe/743079008afa)
+- Software Developer Intern  
+  [https://www.hackerrank.com/certificates](https://www.hackerrank.com/certificates/iframe/743079008afa)
 - JavaScript (Intermediate)  
   [https://www.hackerrank.com/certificates](https://www.hackerrank.com/certificates/iframe/81be95ae7ea8)
 - JavaScript (Besic)  
