@@ -55,21 +55,6 @@ I focus on:
 
 ---
 
-<!-- ===================== GITHUB ACTIVITY ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=40&animation=fadeIn&color=gradient"/>
-</p>
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=prasant-0n&show_icons=true&hide_border=true&count_private=true&cache_seconds=21600"
-    alt="GitHub Stats"
-  />
-</p>
-
----
 
 <!-- ===================== ADVANCED SKILLS ===================== -->
 <p align="center">
