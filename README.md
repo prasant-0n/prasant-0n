@@ -194,7 +194,9 @@ I focus on:
 
 ### 🏅 HackerRank
 - JavaScript (Intermediate)  
-  https://www.hackerrank.com/certificates  
+  https://www.hackerrank.com/certificates
+- JavaScript (Besic)  
+  [https://www.hackerrank.com/certificates](https://www.hackerrank.com/certificates/iframe/81be95ae7ea8)  
 - REST API (Intermediate)  
   https://www.hackerrank.com/certificates  
 - SQL (Advanced)  
