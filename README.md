@@ -21,8 +21,12 @@ Backend Developer • Node.js • Express • MongoDB
 <!-- ===================== HEADER ===================== -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=160&color=gradient&text=Prasanta%20Kumar%20Sahoo&fontSize=40&fontAlignY=55&animation=fadeIn"/>
+</p> -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:111827,100:1f2937&text=Prasanta%20Kumar%20Sahoo&fontSize=38&fontColor=ffffff"/>
 </p>
 
 
