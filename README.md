@@ -244,7 +244,7 @@ Key areas of strength:
 - Pagination, filtering & sorting  
 - Controller–Service–Model architecture  
 
-➡️ *Repository link here*
+<!-- ➡️ *Repository link here* -->
 
 ---
 
@@ -257,7 +257,7 @@ Key areas of strength:
 - Feed pagination & sorting  
 - Secure credential handling with bcrypt  
 
-➡️ *Repository link here*
+<!--➡️ *Repository link here* -->
 
 ---
 
