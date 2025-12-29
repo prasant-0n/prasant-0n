@@ -5,10 +5,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=160&color=gradient&text=Prasanta%20Kumar%20Sahoo&fontSize=40&fontAlignY=55&animation=fadeIn"/>
 </p>
 
-<h4 align="center">
+<h3 align="center">
 Backend Developer | Node.js, Express, MongoDB | REST APIs, JWT, RBAC | ERP & Platform Backend | 6 Months Internship
 
-</h4>
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bengaluru,%20India-Location-0A66C2?style=flat&logo=googlemaps&logoColor=white"/>
