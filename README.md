@@ -190,39 +190,48 @@ I focus on:
   <img src="https://capsule-render.vercel.app/api?type=rect&height=40&animation=fadeIn&color=gradient"/>
 </p>
 
-## 🎓 Certifications
+## 🎓 Certifications & Professional Credentials
 
 ### 🏅 HackerRank
-- Software Developer Intern  
-  [https://www.hackerrank.com/certificates](https://www.hackerrank.com/certificates/iframe/743079008afa)
-- JavaScript (Intermediate)  
-  [https://www.hackerrank.com/certificates](https://www.hackerrank.com/certificates/iframe/81be95ae7ea8)
-- JavaScript (Besic)  
-  [https://www.hackerrank.com/certificates](https://www.hackerrank.com/certificates/iframe/81be95ae7ea8)  
-- SQL (Advanced)  
-  [https://www.hackerrank.com/certificates](https://www.hackerrank.com/certificates/iframe/af44bbac93d2)  
-- REST API (Intermediate)  
-  [https://www.hackerrank.com/certificates](https://www.hackerrank.com/certificates/iframe/4b69f0d664a2)
-- REST API (Besic)  
-  [https://www.hackerrank.com/certificates](https://www.hackerrank.com/certificates/iframe/18f998dc9d56)   
+- **Software Developer Intern**
+  - 🔗 https://www.hackerrank.com/certificates/iframe/743079008afa
+- **JavaScript (Intermediate)**
+  - 🔗 https://www.hackerrank.com/certificates/iframe/81be95ae7ea8
+- **JavaScript (Basic)**
+  - 🔗 https://www.hackerrank.com/certificates/iframe/81be95ae7ea8
+- **SQL (Advanced)**
+  - 🔗 https://www.hackerrank.com/certificates/iframe/af44bbac93d2
+- **REST API (Intermediate)**
+  - 🔗 https://www.hackerrank.com/certificates/iframe/4b69f0d664a2
+- **REST API (Basic)**
+  - 🔗 https://www.hackerrank.com/certificates/iframe/18f998dc9d56
+
+---
 
 ### 🏅 FreeCodeCamp
-- JavaScript Algorithms & Data Structures  
-  [https://www.freecodecamp.org/certification](https://freecodecamp.org/certification/fcca6aac593-4c6c-49af-a8d6-37e7fd4c6a06/javascript-algorithms-and-data-structures)  
+- **JavaScript Algorithms & Data Structures**
+  - 🔗 https://freecodecamp.org/certification/fcca6aac593-4c6c-49af-a8d6-37e7fd4c6a06/javascript-algorithms-and-data-structures
 
-### 🏅 Cisco Networking Academy
-- JavaScript Essentials 1  
-  [https://www.netacad.com/certificates](https://www.credly.com/badges/fe2daba9-b247-4ba4-9983-275b18725af3/linked_in_profile)
-- JavaScript Essentials 2  
-  [https://www.netacad.com/certificates](https://www.credly.com/badges/31a84ac5-a352-4019-9bb5-69b58e21b916/linked_in_profile) 
+---
+
+### 🏅 Cisco Networking Academy (Credly)
+- **JavaScript Essentials 1**
+  - 🔗 https://www.credly.com/badges/fe2daba9-b247-4ba4-9983-275b18725af3/linked_in_profile
+- **JavaScript Essentials 2**
+  - 🔗 https://www.credly.com/badges/31a84ac5-a352-4019-9bb5-69b58e21b916/linked_in_profile
+
+---
 
 ### 🏅 Intellipaat
-- DevOps Fundamentals (Git, CI/CD, Docker basics) 
-  [https://www.intellipaat.com/certificates](https://intellipaat.com/academy/certificate-link/?Yz0xNjU1JnU9Mjk1MjI0JmV4dD0x)
+- **DevOps Fundamentals**
+  - *(Git, CI/CD Pipelines, Docker Basics)*
+  - 🔗 https://intellipaat.com/academy/certificate-link/?Yz0xNjU1JnU9Mjk1MjI0JmV4dD0x
+
+---
 
 ### 🏅 NamasteDev
-- Namaste JavaScript  
-  [https://www.namastedev.com/certificates](https://drive.google.com/file/d/1cVBHdcqCE4V6TSt0rd8FwNyoPBDWlkEd/view?usp=sharing) 
+- **Namaste JavaScript**
+  - 🔗 https://drive.google.com/file/d/1cVBHdcqCE4V6TSt0rd8FwNyoPBDWlkEd/view?usp=sharing
 
 ---
 
