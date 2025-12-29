@@ -137,7 +137,8 @@ Backend APIs supporting:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasant-0n&show_icons=true&theme=radical" />
+  <img src="![Prasanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasant-0n&show_icons=true&theme=github_dark&hide_border=true&v=1)
+" />
 </p>
 
 ---
