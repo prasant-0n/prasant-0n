@@ -78,11 +78,15 @@ I focus on:
 ### 🏗️ Backend & Architecture
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts" height="42"/>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat&logo=swagger&logoColor=white"/>
   <img src="https://img.shields.io/badge/MVC%20Architecture-0A66C2?style=flat"/>
   <img src="https://img.shields.io/badge/Modular%20Services-374151?style=flat"/>
   <img src="https://img.shields.io/badge/API%20Design%20Patterns-111827?style=flat"/>
 </p>
+
 
 - Node.js, Express.js  
 - JavaScript (ES6+), TypeScript  
