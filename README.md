@@ -112,5 +112,5 @@ Currently seeking **Backend Developer / Software Engineer (Node.js)** roles in p
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasanta-0n&show_icons=true&hide_border=true)
+![Prasanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasant-0n&show_icons=true&theme=default)
 
