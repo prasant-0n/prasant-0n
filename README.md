@@ -23,17 +23,18 @@ Backend Developer | Node.js, Express, MongoDB | REST APIs, JWT, RBAC | ERP & Pla
 
 ## 👋 About Me
 
-Backend Developer with **6 months of hands-on internship experience** building **production-ready REST APIs** using **Node.js, Express.js, and MongoDB**.
+Backend Developer with hands-on production experience building **scalable, secure REST APIs** using **Node.js, Express.js, and MongoDB**.
 
-I have worked on **ERP/CRM systems** and **social-media-style backend platforms**, implementing **real business logic**, **JWT-based authentication**, **role-based access control (RBAC)**, and **API performance optimizations**.
+I have contributed to **ERP/CRM systems** and **social-media-style backend platforms**, working on real business workflows involving **authentication, role-based authorization (RBAC), data modeling, and performance optimization**. My focus is on writing **clean, maintainable backend code** that follows industry best practices and supports real-world usage.
 
-I focus on:
-- clean backend architecture  
-- secure & scalable APIs  
-- maintainable codebases  
-- real-world production practices  
+Key areas of strength:
+- backend architecture and API design  
+- secure authentication and authorization flows  
+- database schema design and query optimization  
+- building production-ready services with long-term maintainability in mind  
 
-🎯 Actively seeking **Backend Developer / Software Engineer (Node.js)** roles.
+🎯 Currently seeking **Backend Developer / Software Engineer (Node.js)** roles in product-focused, engineering-driven teams.
+
 
 ---
 
