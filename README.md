@@ -6,7 +6,8 @@
 </p>
 
 <h3 align="center">
-Backend Developer • Node.js • Express • MongoDB
+Backend Developer | Node.js, Express, MongoDB | REST APIs, JWT, RBAC | ERP & Platform Backend | 6 Months Internship
+
 </h3>
 
 <p align="center">
