@@ -217,12 +217,13 @@ I focus on:
   [https://www.netacad.com/certificates](https://www.credly.com/badges/31a84ac5-a352-4019-9bb5-69b58e21b916/linked_in_profile) 
 
 ### 🏅 Intellipaat
-- DevOps Fundamentals (Git, CI/CD, Docker basics)
+- DevOps Fundamentals (Git, CI/CD, Docker basics) 
   [https://www.intellipaat.com/certificates](https://intellipaat.com/academy/certificate-link/?Yz0xNjU1JnU9Mjk1MjI0JmV4dD0x)
 
 ### 🏅 NamasteDev
-- Namaste JavaScript
-  [https://www.namastedev.com/certificates](https://drive.google.com/file/d/1cVBHdcqCE4V6TSt0rd8FwNyoPBDWlkEd/view?usp=sharing)
+- Namaste JavaScript  
+  [https://www.namastedev.com/certificates](https://drive.google.com/file/d/1cVBHdcqCE4V6TSt0rd8FwNyoPBDWlkEd/view?usp=sharing) 
+
 ---
 
 <!-- ===================== STATS ===================== -->
