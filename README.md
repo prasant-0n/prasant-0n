@@ -1,165 +1,156 @@
-<!-- Header Banner -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=120&section=header&text=Prasanta%20Kumar%20Sahoo&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=150&text=Prasanta%20Kumar%20Sahoo&fontSize=48&animation=fadeIn&color=gradient" alt="banner"/>
 </p>
 
-<h3 align="center">Backend Developer | Node.js • Express • MongoDB</h3>
+<h3 align="center">Backend Developer • Node.js • Express • MongoDB</h3>
 
 <p align="center">
   <a href="https://github.com/prasant-0n">
     <img src="https://img.shields.io/badge/GitHub-prasant--0n-181717?style=flat&logo=github" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Bengaluru,%20India-blue" />
-  <img src="https://img.shields.io/badge/Backend-Developer-success" />
+  <img src="https://img.shields.io/badge/Location-Bengaluru,%20IN-blue" />
+  <img src="https://img.shields.io/badge/Role-Backend%20Engineer-success" />
 </p>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-Backend Developer with **6 months of hands-on internship experience** building **production-ready REST APIs** using **Node.js, Express.js, and MongoDB**.
+Backend developer with **real production experience** building REST APIs with Node.js, Express, and MongoDB.  
+I focus on **clean architecture, performant APIs, security, real business logic, and maintainable codebases**.
 
-Worked on **ERP/CRM systems** and **social-media-style backend platforms**, implementing **JWT-based authentication**, **RBAC**, optimized database schemas, and scalable API architectures.
+📌 Professionally trained in authentication, RBAC, schema design, performance optimization, error handling, API standards, and team collaboration workflows.
 
-I focus on:
-- clean backend architecture  
-- secure APIs  
-- performance & maintainability  
-- real-world business logic  
-
-🎯 Actively seeking **Backend Developer / Software Engineer (Node.js)** roles.
+🔭 Actively seeking **Backend Developer / Software Engineer (Node.js)** roles.
 
 ---
 
-## 🧠 Backend Skills & Expertise
+## 🚀 Skills & Expertise
 
-### 🚀 Backend & APIs
+### 📦 Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts" />
 </p>
-
-- RESTful API Design
-- MVC / Layered Architecture
-- Middleware-driven Express apps
-- Centralized error handling
-- Request validation
+- Node.js, Express.js
+- RESTful APIs
+- MVC & Layered Architecture  
+- Design Patterns & Modular Controllers
+- Centralized Logging & Debugging
 
 ---
 
-### 🗄️ Databases
+### 🗄️ Database Design & Optimization
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mongoose" />
 </p>
-
-- MongoDB & Mongoose
-- Schema design & normalization
-- Indexing & query optimization
+- MongoDB schema design
+- Mongoose validations & hooks
+- Indexing & Query performance
 - Aggregation pipelines
-- Pagination, filtering & sorting
+- Pagination, filters & sorting
 
 ---
 
-### 🔐 Authentication & Security
+### 🔐 Security & Auth
 <p>
-  <img src="https://img.shields.io/badge/JWT-Auth-orange?style=flat&logo=jsonwebtokens" />
-  <img src="https://img.shields.io/badge/RBAC-Authorization-blueviolet" />
+  <img src="https://img.shields.io/badge/JWT-JSON%20Web%20Tokens-orange?style=flat&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/RBAC-Role%20Based%20Access%20Control-blueviolet" />
+  <img src="https://img.shields.io/badge/bcrypt-Hashing-yellowgreen" />
 </p>
-
 - JWT (Access & Refresh Tokens)
-- Role-Based Access Control (RBAC)
-- bcrypt password hashing
-- Secure API design
+- Role-Based Access Control
+- Password hashing & secure credentials
+- Token security & refresh workflows
 
 ---
 
-### 🛠️ Tools & DevOps
+### 🛠 Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,nginx,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,nginx" />
 </p>
-
 - Git & GitHub
-- Postman for API testing
-- Docker (fundamentals)
-- Nginx (basic reverse proxy)
+- Postman
+- Docker (basics)
+- Nginx (reverse proxy basics)
+- CI/CD fundamentals
 
 ---
 
-### 💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts" />
-</p>
-
-- JavaScript (ES6+)
-- TypeScript (basic)
+### 🧠 Development Principles
+- Clean, readable, and maintainable code
+- Modular folder architecture
+- Meaningful commits
+- Secure & performant APIs
+- Real-world business logic
 
 ---
 
-## 📌 Featured Backend Projects
+## 📍 Featured Projects
 
 ### 🔹 ERP & CRM Management System (Backend)
-**Tech:** Node.js, Express.js, MongoDB, JWT, RBAC  
+**Stack:** Node.js • Express • MongoDB • JWT • RBAC
 
-- Developed APIs for users, roles, clients, invoices, payments, and reports  
-- Implemented **multi-role RBAC** (Admin, Manager, Employee)  
-- Designed **indexed MongoDB schemas** for optimized reporting  
-- Secured APIs with JWT authentication & access-control middleware  
-- Implemented pagination, filtering, and sorting  
-- Followed **Controller–Service–Model architecture**
+A production-style backend handling:
+- Users, roles, permissions
+- Clients, invoices & payments
+- Reporting with performance indexing  
+- Pagination & filtering pipelines
+- Secure RBAC access layers
 
-➡️ Repository: *(add link)*
+👉 *(Add Repo Link)*
 
 ---
 
-### 🔹 Social Media Platform Backend
-**Tech:** Node.js, Express.js, MongoDB, JWT  
+### 🔹 Social Media Platform (Backend)
+**Stack:** Node.js • Express • MongoDB • JWT
 
-- Built APIs for authentication, profiles, posts, likes, and comments  
-- Implemented JWT-protected routes  
-- Optimized schemas for **high-write workloads**  
-- Implemented feed pagination & sorting  
-- Secured credentials using bcrypt  
+Backend APIs supporting:
+- Authentication & profile management
+- Posts, likes & comments
+- High-write optimized schemas
+- Feed pagination & sorting
+- API security & standards
 
-➡️ Repository: *(add link)*
+👉 *(Add Repo Link)*
 
 ---
 
 ## 🎓 Certifications
 
-- 🏅 **JavaScript (Intermediate)** – HackerRank  
-  https://www.hackerrank.com/certificates
+### 📜 HackerRank
+- 🏅 **JavaScript (Intermediate)** – https://www.hackerrank.com/certificates  
+- 🏅 **REST API (Intermediate)** – https://www.hackerrank.com/certificates  
+- 🏅 **SQL (Advanced)** – https://www.hackerrank.com/certificates  
 
-- 🏅 **REST API (Intermediate)** – HackerRank  
-  https://www.hackerrank.com/certificates
+### 📜 FreeCodeCamp
+- 🏅 **JavaScript Algorithms & Data Structures** – https://www.freecodecamp.org/certification
 
-- 🏅 **SQL (Advanced)** – HackerRank  
-  https://www.hackerrank.com/certificates
+### 📜 Cisco Networking Academy
+- 🏅 **JavaScript Essentials 1 & 2** – https://www.netacad.com
 
-- 🏅 **JavaScript Algorithms & Data Structures** – FreeCodeCamp  
-  https://www.freecodecamp.org/certification
-
-- 🏅 **DevOps Fundamentals** – Intellipaat  
-  (Git, CI/CD, Docker basics)
-
-- 🏅 **JavaScript Essentials 1 & 2** – Cisco Networking Academy  
-  https://www.netacad.com
+### 📜 Intellipaat DevOps Fundamentals
+- 🏅 **Docker & CI/CD Fundamentals** – *(add course URL)*  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasant-0n&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prasant-0n&show_icons=true&theme=radical" />
 </p>
 
 ---
 
-## 📌 Development Philosophy
+## 🏆 Professional Goals
 
-- Production-quality backend over toy projects  
-- Readable, maintainable code  
-- Meaningful commits  
-- Real-world system thinking  
+- Backend roles with real impact  
+- Scalable, secure backend systems  
+- APIs with high performance & uptime  
+- Enterprise-grade standards
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:203a43,100:0f2027&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=80&animation=fadeIn&color=gradient"/>
 </p>
