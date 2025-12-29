@@ -177,8 +177,11 @@ I focus on:
 
 <!-- ===================== STATS ===================== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasant-0n&show_icons=true&theme=github_dark&hide_border=true&v=1"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-success" />
+  <img src="https://img.shields.io/badge/Stack-Node.js%20%7C%20Express%20%7C%20MongoDB-blue" />
+  <img src="https://img.shields.io/badge/Auth-JWT%20%7C%20RBAC-orange" />
 </p>
+
 
 ---
 
