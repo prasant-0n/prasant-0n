@@ -1,5 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=160&text=Prasanta%20Kumar%20Sahoo&fontSize=44&animation=fadeIn&color=gradient" />
 </p>
 
@@ -15,7 +15,27 @@ Backend Developer • Node.js • Express • MongoDB
   <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-success"/>
 </p>
 
----
+--- -->
+
+
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=170&text=Prasanta%20Kumar%20Sahoo&fontSize=44&animation=fadeIn&color=gradient"/>
+</p>
+
+<p align="center">
+  <img 
+    src="./profile.jpg" 
+    alt="Prasanta Kumar Sahoo"
+    width="150"
+    style="border-radius:50%; border:4px solid #ffffff;"
+  />
+</p>
+
+<h3 align="center">
+Backend Developer • Node.js • Express • MongoDB
+</h3>
+
 
 ## 👋 About Me
 
