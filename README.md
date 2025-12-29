@@ -1,44 +1,9 @@
 <!-- ===================== HEADER ===================== -->
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=160&text=Prasanta%20Kumar%20Sahoo&fontSize=44&animation=fadeIn&color=gradient" />
-</p>
-
-<h3 align="center">
-Backend Developer • Node.js • Express • MongoDB
-</h3>
-
-<p align="center">
-  <a href="https://github.com/prasant-0n">
-    <img src="https://img.shields.io/badge/GitHub-prasant--0n-181717?style=flat&logo=github"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Bengaluru,%20India-blue"/>
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-success"/>
-</p>
-
---- -->
-
-
-<!-- ===================== HEADER ===================== -->
 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=160&color=gradient&text=Prasanta%20Kumar%20Sahoo&fontSize=40&fontAlignY=55&animation=fadeIn"/>
 </p>
-
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:111827,100:1f2937&text=Prasanta%20Kumar%20Sahoo&fontSize=38&fontColor=ffffff"/>
-</p> -->
-
-
-
-<!-- <p align="center">
-  <img 
-    src="./Prasanta-removebg-preview.png" 
-    alt="Prasanta Kumar Sahoo"
-    width="150"
-    style="border-radius:50%; border:4px solid #ffffff;"
-  />
-</p> -->
 
 <h3 align="center">
 Backend Developer • Node.js • Express • MongoDB
@@ -163,6 +128,150 @@ I focus on:
 - Debugging & issue analysis  
 
 ---
+
+
+<!-- ===================== ADVANCED SKILLS ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=40&animation=fadeIn&color=gradient"/>
+</p>
+
+## 🧩 Advanced Skills & Engineering Stack
+
+### 🏗️ Backend & Architecture
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts" height="42"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat&logo=swagger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MVC%20Architecture-0A66C2?style=flat"/>
+  <img src="https://img.shields.io/badge/Modular%20Services-374151?style=flat"/>
+  <img src="https://img.shields.io/badge/API%20Design%20Patterns-111827?style=flat"/>
+</p>
+
+- Node.js, Express.js  
+- JavaScript (ES6+), TypeScript  
+- REST API design & standards  
+- MVC & layered architecture  
+- Modular services & separation of concerns  
+
+---
+
+### 🗄️ Databases & Data Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="42"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aggregation%20Pipelines-1F2937?style=flat"/>
+  <img src="https://img.shields.io/badge/Indexing%20%26%20Profiling-065F46?style=flat"/>
+</p>
+
+- MongoDB & Mongoose  
+- MySQL (relational modeling)  
+- Aggregation pipelines  
+- Indexing, query tuning & profiling  
+
+---
+
+### 🔐 Authentication & Security
+<p>
+  <img src="https://img.shields.io/badge/JWT-JSON%20Web%20Tokens-orange?style=flat&logo=jsonwebtokens"/>
+  <img src="https://img.shields.io/badge/Refresh%20Tokens-7C3AED?style=flat"/>
+  <img src="https://img.shields.io/badge/RBAC-Role%20Based%20Access%20Control-blueviolet?style=flat"/>
+  <img src="https://img.shields.io/badge/bcrypt-Password%20Hashing-success?style=flat"/>
+  <img src="https://img.shields.io/badge/Input%20Validation-DC2626?style=flat"/>
+</p>
+
+- JWT (access & refresh token flows)  
+- Role-Based Access Control (RBAC)  
+- bcrypt password hashing  
+- Input validation & secure session handling  
+
+---
+
+### ⚡ Caching & Performance
+<p>
+  <img src="https://skillicons.dev/icons?i=redis" height="42"/>
+  <img src="https://img.shields.io/badge/High--Throughput%20APIs-111827?style=flat"/>
+  <img src="https://img.shields.io/badge/Query%20Tuning-065F46?style=flat"/>
+  <img src="https://img.shields.io/badge/Profiling%20%26%20Monitoring-1F2937?style=flat"/>
+</p>
+
+- Redis caching strategies  
+- High-throughput API optimization  
+- Query tuning & performance profiling  
+- Basic monitoring & bottleneck analysis  
+
+---
+
+### 🚢 DevOps & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,aws,githubactions,linux" height="42"/>
+  <img src="https://img.shields.io/badge/PM2-Process%20Manager-2B2E4A?style=flat"/>
+</p>
+
+- Docker & containerized services  
+- Nginx (reverse proxy, SSL, load balancing)  
+- AWS EC2 deployments  
+- GitHub Actions CI/CD pipelines  
+- PM2 process management  
+- Linux fundamentals  
+
+---
+
+### 🧪 Testing & Documentation
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,postman" height="42"/>
+  <img src="https://img.shields.io/badge/Supertest-API%20Testing-374151?style=flat"/>
+  <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat&logo=swagger&logoColor=black"/>
+</p>
+
+- Jest & Supertest  
+- API testing & validation  
+- Swagger / OpenAPI documentation  
+- Postman collections  
+
+---
+
+### 🧩 Microservices & Scalability
+<p>
+  <img src="https://img.shields.io/badge/API%20Gateway-111827?style=flat"/>
+  <img src="https://img.shields.io/badge/Service%20Separation-374151?style=flat"/>
+  <img src="https://img.shields.io/badge/Rate%20Limiting-DC2626?style=flat"/>
+  <img src="https://img.shields.io/badge/Logging-065F46?style=flat"/>
+  <img src="https://img.shields.io/badge/Dockerized%20Services-1F2937?style=flat"/>
+</p>
+
+- API gateway concepts  
+- Service separation & boundaries  
+- Rate limiting & request control  
+- Centralized logging  
+- Dockerized microservices  
+
+---
+
+### 🎨 Frontend Support
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="42"/>
+</p>
+
+- React.js (backend integration)  
+- HTML, CSS  
+- Tailwind CSS  
+
+---
+
+### 🤝 Professional & Soft Skills
+<p>
+  <img src="https://img.shields.io/badge/Analytical%20Problem%20Solving-0A66C2?style=flat"/>
+  <img src="https://img.shields.io/badge/Clean%20Modular%20Coding-374151?style=flat"/>
+  <img src="https://img.shields.io/badge/Fast%20Debugging-065F46?style=flat"/>
+  <img src="https://img.shields.io/badge/Security--First%20Mindset-DC2626?style=flat"/>
+  <img src="https://img.shields.io/badge/Ownership%20%26%20Collaboration-1F2937?style=flat"/>
+</p>
+
+- Analytical problem-solving  
+- Clean, modular coding practices  
+- Fast debugging & root-cause analysis  
+- Security-first engineering mindset  
+- Ownership & cross-team collaboration  
+
 
 <!-- ===================== PROJECTS ===================== -->
 <p align="center">
