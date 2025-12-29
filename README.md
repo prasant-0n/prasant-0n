@@ -49,11 +49,6 @@ I focus on:
 
 ---
 
-<!-- ===================== SKILLS ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=40&animation=fadeIn&color=gradient"/>
-</p>
-
 
 <!-- ===================== ADVANCED SKILLS ===================== -->
 <p align="center">
@@ -67,20 +62,11 @@ I focus on:
   <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,go" height="42"/>
 </p>
 
-- **Java**  
-  Strong foundation in object-oriented programming, data structures, and backend application development. Familiar with building scalable, maintainable systems using clean code principles.
-
-- **JavaScript (ES6+)**  
-  Primary backend language for building RESTful APIs with Node.js and Express. Experienced in asynchronous programming, middleware design, and production-grade backend logic.
-
-- **TypeScript**  
-  Used for improving code safety and maintainability in backend services through static typing, interfaces, and better tooling support.
-
-- **Python**  
-  Working knowledge for scripting, problem-solving, and backend utilities. Comfortable with writing clean, readable code for automation and backend tasks.
-
-- **Golang (Go)**  
-  Basic exposure to Go for understanding high-performance backend services, concurrency concepts, and microservice-oriented architectures.
+- **Java**
+- **JavaScript (ES6+)**
+- **TypeScript**
+- **Python**
+- **Golang (Go)**
 
 
 ### 🏗️ Backend & Architecture
