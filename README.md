@@ -99,9 +99,11 @@ I focus on:
 ### 🗄️ Databases & Data Engineering
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="42"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Aggregation%20Pipelines-1F2937?style=flat"/>
-  <img src="https://img.shields.io/badge/Indexing%20%26%20Profiling-065F46?style=flat"/>
+  <img src="https://img.shields.io/badge/Indexing%20%26%20Profiling-065F46?style=flat"/>  
 </p>
 
 - MongoDB & Mongoose  
@@ -114,6 +116,8 @@ I focus on:
 ### 🔐 Authentication & Security
 <p>
   <img src="https://img.shields.io/badge/JWT-JSON%20Web%20Tokens-orange?style=flat&logo=jsonwebtokens"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/Refresh%20Tokens-7C3AED?style=flat"/>
   <img src="https://img.shields.io/badge/RBAC-Role%20Based%20Access%20Control-blueviolet?style=flat"/>
   <img src="https://img.shields.io/badge/bcrypt-Password%20Hashing-success?style=flat"/>
@@ -130,11 +134,13 @@ I focus on:
 ### ⚡ Caching & Performance
 <p>
   <img src="https://skillicons.dev/icons?i=redis" height="42"/>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/High--Throughput%20APIs-111827?style=flat"/>
   <img src="https://img.shields.io/badge/Query%20Tuning-065F46?style=flat"/>
   <img src="https://img.shields.io/badge/Profiling%20%26%20Monitoring-1F2937?style=flat"/>
 </p>
-
 - Redis caching strategies  
 - High-throughput API optimization  
 - Query tuning & performance profiling  
@@ -145,7 +151,9 @@ I focus on:
 ### 🚢 DevOps & Infrastructure
 <p>
   <img src="https://skillicons.dev/icons?i=docker,nginx,aws,githubactions,linux" height="42"/>
-  <img src="https://img.shields.io/badge/PM2-Process%20Manager-2B2E4A?style=flat"/>
+</p>
+<p>
+    <img src="https://img.shields.io/badge/PM2-Process%20Manager-2B2E4A?style=flat"/>
 </p>
 
 - Docker & containerized services  
@@ -160,6 +168,8 @@ I focus on:
 ### 🧪 Testing & Documentation
 <p>
   <img src="https://skillicons.dev/icons?i=jest,postman" height="42"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/Supertest-API%20Testing-374151?style=flat"/>
   <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat&logo=swagger&logoColor=black"/>
 </p>
@@ -174,6 +184,8 @@ I focus on:
 ### 🧩 Microservices & Scalability
 <p>
   <img src="https://img.shields.io/badge/API%20Gateway-111827?style=flat"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/Service%20Separation-374151?style=flat"/>
   <img src="https://img.shields.io/badge/Rate%20Limiting-DC2626?style=flat"/>
   <img src="https://img.shields.io/badge/Logging-065F46?style=flat"/>
@@ -192,6 +204,9 @@ I focus on:
 <p>
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" height="42"/>
 </p>
+<p>
+    <img src="https://img.shields.io/badge/Frontend%20Integration-Backend--Driven%20UI-0A66C2?style=flat"/>
+</p>
 
 - React.js (backend integration)  
 - HTML, CSS  
@@ -202,6 +217,8 @@ I focus on:
 ### 🤝 Professional & Soft Skills
 <p>
   <img src="https://img.shields.io/badge/Analytical%20Problem%20Solving-0A66C2?style=flat"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/Clean%20Modular%20Coding-374151?style=flat"/>
   <img src="https://img.shields.io/badge/Fast%20Debugging-065F46?style=flat"/>
   <img src="https://img.shields.io/badge/Security--First%20Mindset-DC2626?style=flat"/>
