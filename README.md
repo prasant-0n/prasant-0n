@@ -36,6 +36,16 @@ Backend Developer • Node.js • Express • MongoDB
 Backend Developer • Node.js • Express • MongoDB
 </h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Bengaluru,%20India-Location-0A66C2?style=flat&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sahooprasanta.dev@email.com-Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/+91--8792534813-Phone-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
+    <img src="https://img.shields.io/badge/LinkedIn-Prasanta%20Sahoo-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+
 
 ## 👋 About Me
 
