@@ -117,8 +117,6 @@ Key areas of strength:
 ### 🔐 Authentication & Security
 <p>
   <img src="https://img.shields.io/badge/JWT-JSON%20Web%20Tokens-orange?style=flat&logo=jsonwebtokens"/>
-</p>
-<p>
   <img src="https://img.shields.io/badge/Refresh%20Tokens-7C3AED?style=flat"/>
   <img src="https://img.shields.io/badge/RBAC-Role%20Based%20Access%20Control-blueviolet?style=flat"/>
   <img src="https://img.shields.io/badge/bcrypt-Password%20Hashing-success?style=flat"/>
@@ -185,8 +183,6 @@ Key areas of strength:
 ### 🧩 Microservices & Scalability
 <p>
   <img src="https://img.shields.io/badge/API%20Gateway-111827?style=flat"/>
-</p>
-<p>
   <img src="https://img.shields.io/badge/Service%20Separation-374151?style=flat"/>
   <img src="https://img.shields.io/badge/Rate%20Limiting-DC2626?style=flat"/>
   <img src="https://img.shields.io/badge/Logging-065F46?style=flat"/>
@@ -218,8 +214,6 @@ Key areas of strength:
 ### 🤝 Professional & Soft Skills
 <p>
   <img src="https://img.shields.io/badge/Analytical%20Problem%20Solving-0A66C2?style=flat"/>
-</p>
-<p>
   <img src="https://img.shields.io/badge/Clean%20Modular%20Coding-374151?style=flat"/>
   <img src="https://img.shields.io/badge/Fast%20Debugging-065F46?style=flat"/>
   <img src="https://img.shields.io/badge/Security--First%20Mindset-DC2626?style=flat"/>
