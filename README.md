@@ -320,7 +320,7 @@ I focus on:
 
 <p align="center">
   <strong>Prasanta Kumar Sahoo</strong><br/>
-  Backend Developer • Node.js • Express • MongoDB
+Engineering scalable, secure backend systems with a production-first mindset
 </p>
 
 <p align="center">
