@@ -54,88 +54,34 @@ I focus on:
   <img src="https://capsule-render.vercel.app/api?type=rect&height=40&animation=fadeIn&color=gradient"/>
 </p>
 
-## 🚀 Skills & Technology Stack
-
-### 🔧 Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat&logo=swagger&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVC%20Architecture-0A66C2?style=flat"/>
-  <img src="https://img.shields.io/badge/Layered%20Architecture-4B5563?style=flat"/>
-</p>
-
-- Node.js, Express.js  
-- RESTful API Design  
-- MVC / Layered Architecture  
-- Middleware-driven backend systems  
-
----
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Schema%20Design-374151?style=flat"/>
-  <img src="https://img.shields.io/badge/Indexing-065F46?style=flat"/>
-  <img src="https://img.shields.io/badge/Aggregation%20Pipelines-1F2937?style=flat"/>
-  <img src="https://img.shields.io/badge/Pagination-111827?style=flat"/>
-</p>
-
-- MongoDB & Mongoose  
-- Schema design & validation  
-- Indexing & query optimization  
-- Aggregation pipelines  
-- Pagination, filtering & sorting  
-
----
-
-### 🔐 Authentication & Security
-<p>
-  <img src="https://img.shields.io/badge/JWT-JSON%20Web%20Tokens-orange?style=flat&logo=jsonwebtokens"/>
-  <img src="https://img.shields.io/badge/RBAC-Role%20Based%20Access%20Control-blueviolet?style=flat"/>
-  <img src="https://img.shields.io/badge/bcrypt-Password%20Hashing-success?style=flat"/>
-  <img src="https://img.shields.io/badge/Secure%20APIs-DC2626?style=flat"/>
-</p>
-
-- JWT (Access & Refresh Tokens)  
-- Role-Based Access Control (RBAC)  
-- bcrypt password hashing  
-- Secure APIs & authorization middleware  
-
----
-
-### 🛠 Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,nginx" height="40"/>
-</p>
-
-- Git & GitHub  
-- Postman (API testing)  
-- Docker (fundamentals)  
-- Nginx (basic reverse proxy)  
-
----
-
-### 💻 Programming & Others
-<p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,json" height="40"/>
-</p>
-
-- JavaScript (ES6+)  
-- TypeScript (basic)  
-- JSON  
-- API documentation  
-- Debugging & issue analysis  
-
----
-
 
 <!-- ===================== ADVANCED SKILLS ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=40&animation=fadeIn&color=gradient"/>
 </p>
 
-## 🧩 Advanced Skills & Engineering Stack
+## 🧩 Professional Skills & Engineering Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,go" height="42"/>
+</p>
+
+- **Java**  
+  Strong foundation in object-oriented programming, data structures, and backend application development. Familiar with building scalable, maintainable systems using clean code principles.
+
+- **JavaScript (ES6+)**  
+  Primary backend language for building RESTful APIs with Node.js and Express. Experienced in asynchronous programming, middleware design, and production-grade backend logic.
+
+- **TypeScript**  
+  Used for improving code safety and maintainability in backend services through static typing, interfaces, and better tooling support.
+
+- **Python**  
+  Working knowledge for scripting, problem-solving, and backend utilities. Comfortable with writing clean, readable code for automation and backend tasks.
+
+- **Golang (Go)**  
+  Basic exposure to Go for understanding high-performance backend services, concurrency concepts, and microservice-oriented architectures.
+
 
 ### 🏗️ Backend & Architecture
 <p>
