@@ -196,7 +196,7 @@ I focus on:
 - **Software Developer Intern**
   - 🔗 https://www.hackerrank.com/certificates/iframe/743079008afa
 - **JavaScript (Intermediate)**
-  - 🔗 https://www.hackerrank.com/certificates/iframe/81be95ae7ea8
+  - 🔗 https://www.hackerrank.com/certificates/iframe/a5b9efa93352
 - **JavaScript (Basic)**
   - 🔗 https://www.hackerrank.com/certificates/iframe/81be95ae7ea8
 - **SQL (Advanced)**
