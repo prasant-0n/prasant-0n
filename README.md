@@ -71,6 +71,19 @@ I focus on:
 
 ---
 
+## 📄 Resume
+
+<p>
+  <a href="https://drive.google.com/file/d/YOUR_RESUME_FILE_ID/view">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-0A66C2?style=flat&logo=googledrive&logoColor=white"/>
+  </a>
+</p>
+
+**Backend Developer | Node.js • Express • MongoDB**
+
+
+---
+
 <!-- ===================== SKILLS ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=40&animation=fadeIn&color=gradient"/>
