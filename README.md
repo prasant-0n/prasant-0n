@@ -25,7 +25,7 @@ Backend Developer • Node.js • Express • MongoDB
 
 <p align="center">
   <img 
-    src="./profile.jpg" 
+    src="./Prasanta-removebg-preview.png" 
     alt="Prasanta Kumar Sahoo"
     width="150"
     style="border-radius:50%; border:4px solid #ffffff;"
