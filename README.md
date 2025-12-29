@@ -21,29 +21,19 @@ Backend Developer • Node.js • Express • MongoDB
 <!-- ===================== HEADER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api
-?type=transparent
-&height=160
+?type=rect
+&height=120
 &text=Prasanta%20Kumar%20Sahoo
-&fontSize=42
+&fontSize=38
 &fontColor=FFFFFF
-&animation=twinkling
-&color=0:0f2027,50:203a43,100:2c5364" />
+&animation=fadeIn
+&color=gradient" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com
-?font=Fira+Code
-&size=20
-&duration=3000
-&pause=1000
-&color=38BDF8
-&center=true
-&vCenter=true
-&width=700
-&lines=Backend+Developer+%7C+Node.js+%7C+Express+%7C+MongoDB;
-Clean+Architecture+%7C+Secure+APIs+%7C+RBAC;
-Production-Ready+Backend+Engineering" />
+  <b>Backend Developer • Node.js • Express • MongoDB</b>
 </p>
+
 
 
 <!-- <p align="center">
