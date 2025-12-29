@@ -218,7 +218,7 @@ I focus on:
 
 ### 🏅 Intellipaat
 - DevOps Fundamentals (Git, CI/CD, Docker basics)
-  [https://www.hackerrank.com/certificates](https://intellipaat.com/academy/certificate-link/?Yz0xNjU1JnU9Mjk1MjI0JmV4dD0x)
+  [https://www.intellipaat.com/certificates](https://intellipaat.com/academy/certificate-link/?Yz0xNjU1JnU9Mjk1MjI0JmV4dD0x)
 
 ### 🏅 NamasteDev
 - Namaste JavaScript
