@@ -313,6 +313,29 @@ I focus on:
 - Security & performance first  
 - Real-world system thinking  
 
+<!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=90&animation=fadeIn&color=gradient"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0f2027,100:203a43&section=footer"/>
 </p>
+
+<p align="center">
+  <strong>Prasanta Kumar Sahoo</strong><br/>
+  Backend Developer • Node.js • Express • MongoDB
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prasanta1/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Prasanta%20Sahoo-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sahooprasanta.dev@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/prasant-0n">
+    <img src="https://img.shields.io/badge/GitHub-prasant--0n-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <em>Building secure, scalable backend systems with production-first thinking.</em>
+</p>
+
