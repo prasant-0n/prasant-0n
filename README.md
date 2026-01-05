@@ -41,11 +41,11 @@ Key areas of strength:
 ## 📄 Resume
 
 <p>
-  <a 
+  <!-- <a 
     href="https://docs.google.com/document/d/1UxHxJ8AIiSTAVwPcsRwQNs2uhvDhSPzf/edit?usp=sharing&ouid=110872332606955664556&rtpof=true&sd=true"
     target="_blank"
     rel="noopener noreferrer"
-  >
+  > -->
     <img src="https://img.shields.io/badge/Resume-View%20PDF-0A66C2?style=flat&logo=googledrive&logoColor=white"/>
   </a>
 </p>
