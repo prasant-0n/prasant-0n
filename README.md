@@ -6,8 +6,8 @@
 </p>
 
 <h3 align="center">
-Backend Developer | Node.js, Express, MongoDB | REST APIs, JWT, RBAC 
-<!-- | ERP & Platform Backend | 6 Months Internship -->
+ Developer | Node.js, Express, MongoDB | REST APIs, JWT, RBAC 
+<!-- Backend | ERP & Platform Backend | 6 Months Internship -->
 
 </h3>
 
